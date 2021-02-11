@@ -78,7 +78,7 @@ img {
 }
 
 .indents {
-	padding-top: 250px;
+	padding-top: 200px;
 	padding-bottom: 100px;
 }
 
@@ -110,17 +110,10 @@ img {
 
 /*skills*/
 
-
-/**/
-
 .logoSkills {
 	display: flex;
 	justify-content: center;
 	margin-top: 200px;
-}
-
-.logoSkills {
-	display: flex;
 	justify-content: space-around;
 	height: auto;
 }
