@@ -55,11 +55,6 @@
 		font-size: 14px;
 	}
 
-	.header_arrow {
-		bottom: 70px;
-		left: 47%;
-	}
-
 	.portfolio {
 		padding-top: 40px;
 		padding-bottom: 60px;
@@ -138,4 +133,8 @@
 
 @media screen and (max-width: 622px) {
 	.abave__mee__img , .abave__mee__text {width: auto;}
+		.header_arrow {
+		bottom: 70px;
+		left: 47%;
+	}
 }
