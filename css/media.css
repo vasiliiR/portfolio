@@ -127,6 +127,8 @@
 			font-size: 13px;
 			max-width: 320px ;
 		}
+
+		.footer {margin-top: 0px;}
 }
 
 @media screen and (max-width: 622px) {
